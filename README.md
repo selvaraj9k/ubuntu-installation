@@ -29,4 +29,4 @@ ubuntu installation in hardware
 ![os_25](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_25.jpg)
 ![os_26](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_26.jpg)
 ![os_27](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_27.jpg)
-![os_23](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_28.jpg)
+![os_28](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_28.jpg)
