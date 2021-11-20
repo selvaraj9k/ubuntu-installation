@@ -50,6 +50,6 @@ ubuntu installation in hardware
 ![os_45](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_45.jpg)
 ![os_46](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_46.jpg)
 ![os_47](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_47.jpg)
-![os_48](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_48.jpg)
-![os_49](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_49.jpg)
+![os_48](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_48.png)
+![os_49](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_49.png)
 
