@@ -1,5 +1,5 @@
 # ubuntu-installation
-# ubuntu installation in hardware
+### ubuntu installation in hardware
 ### How To Install Ubuntu: Run Linux On Your Laptop Or PC
 
 Ubuntu’s standard installation method is to download the ISO Disk Image File and burn it to a CD or DVD. Still, Canonical is aware that many netbook, notebook, and laptop users may not have access to a CD/DVD drive and that a USB stick is often preferred by most users anyway. Therefore, you have both methods available to install Ubuntu.
