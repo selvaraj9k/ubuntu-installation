@@ -5,6 +5,14 @@
 **Ubuntu’s standard installation** method is to download the **ISO Disk Image File** and burn it to a **CD** or **DVD**. Still, Canonical is aware that many netbook, notebook, and laptop users may not have access to a CD/DVD drive and that a USB stick is often preferred by most users anyway. Therefore, you have both methods available to install Ubuntu.
 
 ![ubuntu](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu.jpg)
+
+# Prerequisites
+- System requirements (recommended):
+  - 2 GHz dual-core processor
+  - 4GB memory
+  - 25GB available disk space for storage (less if installing the minimal version)
+  - DVD drive or USB port
+- At least a 4GB USB drive
 ![ubutnu-linux](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-linux.jpg)
 ![os_1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_1.jpg)
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
