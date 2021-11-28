@@ -8,11 +8,12 @@
 
 # Prerequisites
 - System requirements (recommended):
-  - 2 GHz dual-core processor
-  - 4GB memory
-  - 25GB available disk space for storage (less if installing the minimal version)
-  - DVD drive or USB port
+  - **2 GHz dual-core processor**
+  - **4GB memory**
+  - **25GB available disk space for storage (less if installing the minimal version)**
+  - **DVD drive or USB port**
 - At least a 4GB USB drive
+
 ![ubutnu-linux](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-linux.jpg)
 ![os_1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_1.jpg)
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
