@@ -15,7 +15,22 @@
 - At least a 4GB USB drive
 
 ![ubutnu-linux](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-linux.jpg)
+
+#Download the Installation Media
+
+In a web browser, visit the [Ubuntu download page](https://ubuntu.com/download) and pick a version suitable for your machine. The most popular versions include:
+- [Ubuntu Desktop](https://ubuntu.com/download/desktop)
+- [Ubuntu Server](https://ubuntu.com/download/server)
+- [Ubuntu Derivatives](https://ubuntu.com/download/flavours)
+
+Once you find the version you need, click the green **Download button**. You’ll be taken to a thank-you page, and your download should start. (We will download and install Ubuntu 20.04 for desktops.)
+
 ![ubuntu-1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-1.png)
+
+The download is an .iso file. You can use it to create a bootable USB drive.
+Save the file to a location of your choice.
+
+
 ![ubuntu-2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-2.png)
 ![ubuntu-3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-3.png)
 ![os_1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_1.jpg)
