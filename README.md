@@ -16,7 +16,7 @@
 
 ![ubutnu-linux](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-linux.jpg)
 
-#Download the Installation Media
+# Download the Installation Media
 
 In a web browser, visit the [Ubuntu download page](https://ubuntu.com/download) and pick a version suitable for your machine. The most popular versions include:
 - [Ubuntu Desktop](https://ubuntu.com/download/desktop)
@@ -29,6 +29,18 @@ Once you find the version you need, click the green **Download button**. You’l
 
 The download is an .iso file. You can use it to create a bootable USB drive.
 Save the file to a location of your choice.
+
+# Create Bootable USB Drive
+## Create Bootable USB Drive on Linux
+
+You’ll need to install a third-party utility called balenaEtcher to create a USB bootable drive.
+
+Download the balenaEtcher utility. Scroll down to the download section and click the link to download the latest version of balenaEtcher.
+
+Run the file once downloaded.And Extract and use it.
+
+ The balenaEtcher utility launches. Plug in the USB drive – you should see the drive pop up in the device field.
+
 
 
 ![ubuntu-2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-2.png)
