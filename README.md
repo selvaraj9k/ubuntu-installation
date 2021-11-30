@@ -41,10 +41,10 @@ Run the file once downloaded.And Extract and use it.
 
  The balenaEtcher utility launches. Plug in the USB drive – you should see the drive pop up in the device field.
 
-- In the Boot Selection drop-down, click Disk or ISO Image.
-- Set the USB as the device you wish to write to.
-- Click the Select button to the right.
+- In the Flash from file, click Disk or ISO Image.
 - Browse and select the .iso Ubuntu file you downloaded earlier.
+- Select  Target USB as the device you wish to write to.
+- Click the Flash button to the Flash.
 
 ![ubuntu-2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-2.png)
 ![ubuntu-3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-3.png)
