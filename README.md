@@ -67,6 +67,26 @@ You’ll need to install a third-party utility called Rufus to create a USB boot
 Insert the **PenDrive**
 
 ![os_1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_1.jpg)
+
+# Boot up Ubuntu from USB
+
+Turn off your system. Make sure you remove all other USB devices, such as printers, memory cards, etc.
+
+Insert the Ubuntu USB drive into the system and turn on your machine.
+
+There are two possible scenarios:
+
+- The computer boots the USB drive automatically.
+- You need to manually configure USB booting in the Boot Menu or BIOS/UEFI.
+
+To manually configure the boot order, tap the boot menu key about once or twice per second as soon as the computer powers on.
+
+The boot menu key may be different depending on your computer manufacturer. Below is a list of common boot keys associated to a brand:
+
+|   Brand     |    Keys        |
+ ------------   ---------------
+|  Asus       |   F8 or Esc    |
+
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
 ![os_3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_3.jpg)
 ![os_4](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_4.jpg)
