@@ -57,6 +57,14 @@ Run the file once downloaded.And Extract and use it.
 - Click the Make Startup disk button to the Flash.
  
 ![ubuntu-3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-3.png)
+
+## Create Bootable USB Drive on Linux
+
+You’ll need to install a third-party utility called Rufus to create a USB bootable drive.
+
+- [Rufus](https://rufus.ie/en/)
+
+
 ![os_1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_1.jpg)
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
 ![os_3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_3.jpg)
