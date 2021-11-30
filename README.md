@@ -32,6 +32,7 @@ Save the file to a location of your choice.
 
 # Create Bootable USB Drive
 ## Create Bootable USB Drive on Linux
+### BalenaEtcher
 
 You’ll need to install a third-party utility called balenaEtcher to create a USB bootable drive.
 
@@ -47,6 +48,14 @@ Run the file once downloaded.And Extract and use it.
 - Click the Flash button to the Flash.
 
 ![ubuntu-2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-2.png)
+
+### Make Startup Disk (Default in Ubuntu)
+
+- In the Source disc image from file, click Disk or ISO Image.
+- Browse and select the .iso Ubuntu file you downloaded earlier.
+- Select  Target USB as the device you wish to write to.
+- Click the Make Startup disk button to the Flash.
+ 
 ![ubuntu-3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-3.png)
 ![os_1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_1.jpg)
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
