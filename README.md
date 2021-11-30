@@ -58,12 +58,13 @@ Run the file once downloaded.And Extract and use it.
  
 ![ubuntu-3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-3.png)
 
-## Create Bootable USB Drive on Linux
+## Create Bootable USB Drive on Windows
 
 You’ll need to install a third-party utility called Rufus to create a USB bootable drive.
 
 - [Rufus](https://rufus.ie/en/)
 
+Insert the **PenDrive**
 
 ![os_1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_1.jpg)
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
