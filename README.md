@@ -83,9 +83,10 @@ To manually configure the boot order, tap the boot menu key about once or twice 
 
 The boot menu key may be different depending on your computer manufacturer. Below is a list of common boot keys associated to a brand:
 
-| Brand | Keys |
- ------  -----
-| Asus | F8 or Esc |
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
 ![os_3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_3.jpg)
