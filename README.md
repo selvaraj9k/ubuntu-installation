@@ -83,10 +83,18 @@ To manually configure the boot order, tap the boot menu key about once or twice 
 
 The boot menu key may be different depending on your computer manufacturer. Below is a list of common boot keys associated to a brand:
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+|     Brand   |    Keys         |
+| ----------- | --------------- |
+| Asus	      | F8 or Esc       |
+| Acer        | F12, F9 or Esc  |
+| Compaq      | F9 or Esc       |
+| Dell        | F12             |
+| eMachines   | F12             |
+| Fujitsu     | F12             |
+| HP          | F9 or Esc       |
+| Lenovo      | F8, F10 or F12  |
+| Samsung     | F2, F12 or Esc  |
+| Toshiba     | F12             |
 
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
 ![os_3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_3.jpg)
