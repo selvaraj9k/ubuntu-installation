@@ -96,8 +96,7 @@ The boot menu key may be different depending on your computer manufacturer. Belo
 | Samsung     | F2, F12 or Esc  |
 | Toshiba     | F12             |
 
-
-Once you see your boot menu, use the arrows to pick the Ubuntu media to boot from. For a DVD, the entry will usually have DVD or Optical in the name. USB is usually labeled USB.
+Once you see your **boot menu**, use the arrows to pick the Ubuntu media to boot from. For a DVD, the entry will usually have **DVD** or **Optical** in the name. USB is usually labeled USB.
 
 Your system should start loading the Ubuntu live disc menu.
 
