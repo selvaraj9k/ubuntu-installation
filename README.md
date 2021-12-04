@@ -68,20 +68,23 @@ Insert the **PenDrive**
 
 ![os_1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_1.jpg)
 
-# Boot up Ubuntu from USB
+# Boot from USB
 
-Turn off your system. Make sure you remove all other USB devices, such as printers, memory cards, etc.
+Switch off your computer and remove all other USB devices (like printers, memory cards, etc.).
 
-Insert the Ubuntu USB drive into the system and turn on your machine.
+Insert the bootable USB and switch on the computer.
 
-There are two possible scenarios:
+Next, one of two things will happen:
 
-- The computer boots the USB drive automatically.
-- You need to manually configure USB booting in the Boot Menu or BIOS/UEFI.
+- The computer will automatically boot from the USB if our BIOS/UEFI is set up correctly.
+- You need to set up boot from USB manually, through the Boot Menu or BIOS/UEFI.
 
-To manually configure the boot order, tap the boot menu key about once or twice per second as soon as the computer powers on.
+## Boot USB from Boot Menu
 
-The boot menu key may be different depending on your computer manufacturer. Below is a list of common boot keys associated to a brand:
+As the computer is switching on, you can access the Boot Menu by pressing the correct key (or combination of keys). The keys that take you to the required menu depend on the brand of computer. This is the list of common keys based on the brand:
+
+
+
 
 |     Brand   |    Keys         |
 | ----------- | --------------- |
@@ -96,9 +99,33 @@ The boot menu key may be different depending on your computer manufacturer. Belo
 | Samsung     | F2, F12 or Esc  |
 | Toshiba     | F12             |
 
-Once you see your **boot menu**, use the arrows to pick the Ubuntu media to boot from. For a DVD, the entry will usually have **DVD** or **Optical** in the name. USB is usually labeled USB.
+Once you have accessed the Boot Menu, select the USB as the device to boot from and press Enter.
+If you are unable to boot from the USB this way, try doing it by opening BIOS/UEFI.
 
-Your system should start loading the Ubuntu live disc menu.
+
+## Boot USB from BIOS/UEFI
+
+Just as accessing the Boot Menu, to open the BIOS/EUFI you need to hit the correct keys that correspond to the computer brand. The list of common keys for accessing the BIOS/UEFI is:
+
+
+|  Brand     |        Keys         |   
+|----------- | ------------------- |
+|Asus	     |  F9 or Del          |
+|Acer        |	F2, F9 or Del      |
+|Compaq      |	F10                |
+|Dell	     |  F2                 |
+|eMachines   | 	Tab or Del         |
+|Fujitsu     |	F2                 |
+|HP	     |  F10, F11 or Esc    |
+|Lenovo	     |  F1 or F2           |
+|Samsung     |	F2                 |
+|Toshiba     |	F1, F2, F12 or Esc |
+
+
+Once you access the BIOS/UEFI, find the Boot Device Select Menu and set the USB as first in the Boot Order. With this configuration in place, your computer will boot from the USB (if possible). If there is no bootable flash drive present, it will run the OS from the hard drive, as per usual.
+
+Note: Make sure to disable legacy mode or secure boot, if your system has this option.
+
 
 
 
