@@ -126,7 +126,9 @@ Once you access the BIOS/UEFI, find the Boot Device Select Menu and set the USB 
 
 Note: Make sure to disable legacy mode or secure boot, if your system has this option.
 
+Note: If you have a dual boot machine, you can set up Ubuntu along with your existing operating system. In this case, you will need to select Something else and create the partitions.
 
+# Run Ubuntu
 
 
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
