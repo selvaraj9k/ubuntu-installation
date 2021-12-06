@@ -128,9 +128,6 @@ Note: Make sure to disable legacy mode or secure boot, if your system has this o
 
 Note: If you have a dual boot machine, you can set up Ubuntu along with your existing operating system. In this case, you will need to select Something else and create the partitions.
 
-# Run Ubuntu
-
-
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
 ![os_3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_3.jpg)
 ![os_4](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_4.jpg)
@@ -143,6 +140,12 @@ Note: If you have a dual boot machine, you can set up Ubuntu along with your exi
 ![os_11](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_11.jpg)
 ![os_12](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_12.jpg)
 ![os_13](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_13.jpg)
+
+# Run Ubuntu
+# Install Ubuntu 20.04 LTS Desktop
+
+To begin the installation, click Install Ubuntu.
+
 ![os_14](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_14.jpg)
 ![os_15](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_15.jpg)
 ![os_16](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_16.jpg)
