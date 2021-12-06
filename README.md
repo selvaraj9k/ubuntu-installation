@@ -147,6 +147,16 @@ Note: If you have a dual boot machine, you can set up Ubuntu along with your exi
 To begin the installation, click Install Ubuntu.
 
 ![os_14](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_14.jpg)
+
+# Choose Keyboard Layout
+
+By default, the system will select English and English.
+
+If you have a non-standard keyboard, you can select it in the list. Alternately, click Detect Keyboard Layout and the system will automatically choose your keyboard. If you need to test your keyboard, use the labeled field.
+
+When you’re ready, click Continue.
+
+
 ![os_15](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_15.jpg)
 ![os_16](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_16.jpg)
 ![os_17](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_17.jpg)
