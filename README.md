@@ -198,6 +198,7 @@ You’ll also be asked to confirm other options:
 ![os_37](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_37.jpg)
 ![os_38](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_38.jpg)
 ![os_39](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_39.jpg)
+![os_40](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_40.jpg)
 
 ## Create User Account
 
@@ -211,7 +212,6 @@ Next, you’ll need to configure a user account. Fill in the following fields:
 - Require my password to log in: This is recommended for publicly accessible servers.
 
 
-![os_40](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_40.jpg)
 ![os_41](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_41.jpg)
 ![os_42](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_42.jpg)
 ![os_43](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_43.jpg)
