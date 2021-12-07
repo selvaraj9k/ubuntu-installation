@@ -2,7 +2,7 @@
 ### ubuntu installation in hardware
 ### How To Install Ubuntu: Run Linux On Your Laptop Or PC
 
-**Ubuntu’s standard installation** method is to download the **ISO Disk Image File** and burn it to a **CD** or **DVD**. Still, Canonical is aware that many netbook, notebook, and laptop users may not have access to a CD/DVD drive and that a USB stick is often preferred by most users anyway. Therefore, you have both methods available to install Ubuntu.
+**Ubuntu’s standard installation** method is to download the **ISO Disk Image File** and burn it to a **CD** or **DVD**. Still, focal is aware that many netbook, notebook, and laptop users may not have access to a CD/DVD drive and that a USB stick is often preferred by most users anyway. Therefore, you have both methods available to install Ubuntu.
 
 ![ubuntu](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu.jpg)
 
@@ -128,7 +128,12 @@ Note: Make sure to disable legacy mode or secure boot, if your system has this o
 
 Note: If you have a dual boot machine, you can set up Ubuntu along with your existing operating system. In this case, you will need to select Something else and create the partitions.
 
+Below Picture Showing My Laptop
+
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
+
+ Bios Information
+
 ![os_3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_3.jpg)
 ![os_4](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_4.jpg)
 ![os_5](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_5.jpg)
