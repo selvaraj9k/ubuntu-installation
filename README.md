@@ -212,9 +212,12 @@ Next, you’ll need to configure a user account. Fill in the following fields:
 - **Require my password to log in:** This is recommended for publicly accessible servers.
 
 
+Continue to install Ubuntu
+
+
 ![os_41](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_41.jpg)
 
-Continue to install Ubuntu
+Ubuntu installation is process.
 
 ![os_42](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_42.jpg)
 
@@ -231,12 +234,12 @@ Remove the PenDrive and Then press Enter.
 
 ![os_47](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_47.jpg)
 
-Ubuntu Desktop view
+Ubuntu Desktop view.
 
 ![os_48](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_48.png)
 
 
-Checking OS Version
+Checking OS Version.
 
 ![os_49](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_49.png)
 
