@@ -150,12 +150,36 @@ In Boot Priorty Option , To change Legacy Support to UEFI first.
 
 ![os_6](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_6.jpg)
 
+Press Esc Button, It shows the Exit Saving Changes Message.
+And Then Press yes to Save Changes
+
 ![os_7](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_7.jpg)
+
+The System was On Within a Second.
 ![os_8](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_8.jpg)
+
+Loaded  GNU GRUB . Press Ubuntu..
+
+
 ![os_9](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_9.jpg)
+
+Now Ubuntu Operting System is Loading...
+
+
 ![os_10](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_10.jpg)
+
+Now Checking Disks...
+
 ![os_11](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_11.jpg)
+
+
+Check Finished. Disks has No Errors.
+
+
 ![os_12](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_12.jpg)
+
+Ubuntu is Processing....
+
 ![os_13](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_13.jpg)
 
 # Run Ubuntu
