@@ -203,12 +203,27 @@ When you’re ready, click Continue.
 
 ##  Network Connection
 ### Wireless Network Connection
+
+There are two Options
+
 - I don't want to connect to a WiFi network right now.
 - Connect to this network.
 
 ![os_16](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_16.jpg)
+
+Connect the Network.
+To the Available Wifi Network Connection.
+
 ![os_17](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_17.jpg)
+
+
+Select the Wifi Network Connection, and Enter the Password.
+
+
 ![os_18](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_18.jpg)
+
+Wireless Network Connection was Conneted.
+
 ![os_19](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_19.jpg)
 
 
