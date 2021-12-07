@@ -156,6 +156,7 @@ And Then Press yes to Save Changes
 ![os_7](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_7.jpg)
 
 The System was On Within a Second.
+
 ![os_8](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_8.jpg)
 
 Loaded  GNU GRUB . Press Ubuntu..
@@ -199,6 +200,12 @@ When you’re ready, click Continue.
 
 
 ![os_15](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_15.jpg)
+
+##  Network Connection
+### Wireless Network Connection
+- I don't want to connect to a WiFi network right now.
+- Connect to this network.
+
 ![os_16](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_16.jpg)
 ![os_17](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_17.jpg)
 ![os_18](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_18.jpg)
