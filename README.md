@@ -213,11 +213,22 @@ Next, you’ll need to configure a user account. Fill in the following fields:
 
 
 ![os_41](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_41.jpg)
+
+Continue to install Ubuntu
+
 ![os_42](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_42.jpg)
+
+Ubuntu installation is Processing...
 ![os_43](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_43.jpg)
 ![os_44](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_44.jpg)
 ![os_45](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_45.jpg)
+
+Installation completed and Restart the System now.
+
 ![os_46](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_46.jpg)
+
+Remove the PenDrive and Then press Enter.
+
 ![os_47](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_47.jpg)
 
 Ubuntu Desktop view
