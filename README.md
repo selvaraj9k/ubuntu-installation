@@ -166,15 +166,15 @@ When you’re ready, click Continue.
 
 ## Choose Starting Applications
 
-- Normal Installation – This is the full Ubuntu Desktop experience, with office software, games, and media players.
+- **Normal Installation –** This is the full Ubuntu Desktop experience, with office software, games, and media players.
 
-- Minimal Installation – Choose this to save disk space, especially if you won’t be using media players or productivity software.
+- **Minimal Installation –** Choose this to save disk space, especially if you won’t be using media players or productivity software.
 
 You’ll also be asked to confirm other options:
 
-- Download updates while installing Ubuntu – This does the work of downloading large package files during the installation. Once the installation finishes, the packages will be ready to apply as updates.
+- **Download updates while installing Ubuntu –** This does the work of downloading large package files during the installation. Once the installation finishes, the packages will be ready to apply as updates.
 
-- Install third-party software for graphics and Wi-Fi hardware and additional media formats – Some hardware, like graphics cards and wi-fi cards, do not have open-source driver support. Also, some media formats, such as .wmv, do not fall under the GPL license. If you need support for these, you’ll need to agree to additional terms of use.
+- **Install third-party software for graphics and Wi-Fi hardware and additional media formats –** Some hardware, like graphics cards and wi-fi cards, do not have open-source driver support. Also, some media formats, such as .wmv, do not fall under the GPL license. If you need support for these, you’ll need to agree to additional terms of use.
 
 
 
