@@ -219,6 +219,13 @@ Next, you’ll need to configure a user account. Fill in the following fields:
 ![os_45](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_45.jpg)
 ![os_46](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_46.jpg)
 ![os_47](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_47.jpg)
+
+Ubuntu Desktop view
+
 ![os_48](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_48.png)
+
+
+Checking OS Version
+
 ![os_49](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_49.png)
 
