@@ -128,16 +128,28 @@ Note: Make sure to disable legacy mode or secure boot, if your system has this o
 
 Note: If you have a dual boot machine, you can set up Ubuntu along with your existing operating system. In this case, you will need to select Something else and create the partitions.
 
-Below Picture Showing My Laptop
+Below Picture Showing My Laptop.
 
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
 
- Bios Information
+BIOS Information.
 
 ![os_3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_3.jpg)
+
+Go to Boot Option.
+
 ![os_4](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_4.jpg)
+
+To Visible all the options.
+
+
 ![os_5](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_5.jpg)
+
+
+In Boot Priorty Option , To change Legacy Support to UEFI first.
+
 ![os_6](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_6.jpg)
+
 ![os_7](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_7.jpg)
 ![os_8](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_8.jpg)
 ![os_9](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_9.jpg)
