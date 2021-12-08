@@ -285,7 +285,15 @@ You’ll be asked to Write changes to disks?  None of the options you’ve selec
 ![os_38](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_38.jpg)
 ![os_39](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_39.jpg)
 
-Select the Time Zone .
+# Select Time Zone
+Once the system formats the disk partitions, the installer will ask Where are you?
+
+Type the nearest large city into the box, and the system will set your local time zone.
+
+Click Continue.
+
+Note: It’s always possible to change the timezone on Ubuntu at a later point in time.
+
 
 ![os_40](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_40.jpg)
 
