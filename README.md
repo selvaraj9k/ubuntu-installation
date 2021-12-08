@@ -243,6 +243,29 @@ You’ll also be asked to confirm other options:
 
 ![os_20](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_20.jpg)
 ![os_21](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_21.jpg)
+
+
+# Disk Partitioning
+Next, you’ll be presented with an Installation Type dialog. You can wipe the hard drive clean prior to installing Ubuntu by clicking Erase disk and install Ubuntu. If you go this route, skip ahead to the next step.
+
+Advanced users may want to edit Advanced Features. Use this to specify your own disk partitions or set other advanced options:
+
+- Use LVM with the new Ubuntu installation: LVM stands for Logical Volume Management. This is a tool for dynamically managing different virtual drives on your system. It’s much like an enhanced version of the gparted tool.
+- Encrypt the new Ubuntu installation for security: This will encrypt the drive’s contents. You’ll choose a security key, which will be required to decrypt and use the drive.
+- Experimental: Erase disk and use ZFS:  ZFS refers to Zettabyte File System, but it has grown into a hybrid file system and volume manager. Since it’s still being tested, avoid this setting on mission-critical production system
+
+If you’d rather create your own hard drive partitions, click Something Else.
+
+The next screen will allow you to create your own partition table and logical drives. This lets you divide a physical hard drive into different partitions. The operating system sees partitions as individual drives.
+
+Note: Some users create their /home directory on a separate partition. If the operating system needs to be reinstalled, the partition with the /home directory is unaffected.
+
+Click Continue to apply your changes to the drive partitions.
+
+You’ll be asked to Write changes to disks?  None of the options you’ve selected are permanent until you click Continue on this screen.  Click Continue to proceed.
+
+
+
 ![os_22](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_22.jpg)
 ![os_23](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_23.jpg)
 ![os_24](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_24.jpg)
