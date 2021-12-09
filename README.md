@@ -300,13 +300,23 @@ To create a root(/) partition (where the base system files will be installed), e
 
 ![os_30](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_30.jpg)
 ![os_31](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_31.jpg)
-
 ![os_32](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_32.jpg)
+
+Next, you need to create a swap partition/area. Double click on the current free space to create a new partition to be used as swap area. Then enter the swap partition size and set swap area as shown in the following screenshot.
+
 ![os_33](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_33.jpg)
 ![os_34](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_34.jpg)
 ![os_35](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_35.jpg)
+
+ Next, click Continue from the pop-up window to create an empty partition table on the device.
+
 ![os_36](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_36.jpg)
 ![os_37](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_37.jpg)
+
+
+You will be prompted to permit the installer to write the recent changes concerning partitioning to disk. Click Continue to proceed.
+
+
 ![os_38](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_38.jpg)
 ![os_39](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_39.jpg)
 
