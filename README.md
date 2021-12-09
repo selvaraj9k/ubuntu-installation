@@ -302,10 +302,15 @@ To create a root(/) partition (where the base system files will be installed), e
 ![os_31](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_31.jpg)
 ![os_32](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_32.jpg)
 
-Next, you need to create a swap partition/area. Double click on the current free space to create a new partition to be used as swap area. Then enter the swap partition size and set swap area as shown in the following screenshot.
+
+Next, create a SWAP partition. The swap partition is used as virtual memory in case your system runs out of the memory (RAM). For a system with a limited amount of RAM, the rule of thumb is to create the swap partition twice the size of the actual hardware RAM.
+
 
 ![os_33](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_33.jpg)
 ![os_34](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_34.jpg)
+
+All done. Review the partitions and hit the Install Now button.
+
 ![os_35](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_35.jpg)
 
  Next, click Continue from the pop-up window to create an empty partition table on the device.
