@@ -2,7 +2,7 @@
 ### ubuntu installation in hardware
 ### How To Install Ubuntu: Run Linux On Your Laptop Or PC
 
-**Ubuntu’s standard installation** method is to download the **ISO Disk Image File** and burn it to a **CD** or **DVD**. Still, focal is aware that many netbook, notebook, and laptop users may not have access to a CD/DVD drive and that a USB stick is often preferred by most users anyway. Therefore, you have both methods available to install Ubuntu.
+**Ubuntu’s standard installation** method is to download the **ISO Disk Image File** and burn it to a **CD** or **DVD**. Still, Canonical is aware that many netbook, notebook, and laptop users may not have access to a CD/DVD drive and that a USB stick is often preferred by most users anyway. Therefore, you have both methods available to install Ubuntu.
 
 ![ubuntu](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu.jpg)
 
@@ -272,30 +272,30 @@ For this scenario, you need to set up partitions manually so choose Something el
 
 ![os_23](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_23.jpg)
 
-For this scenario, Delete all the partitions.
+For this scenario, ***Delete all the partitions***.
 
 ![os_24](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_24.jpg)
 ![os_25](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_25.jpg)
 
-Now, the Disk is free.
+Now, the ***Disk is free***.
 Now you need to partition your hard drive for the installation. Simply select/click on the unpartitioned storage device from the list of available storage devices. Then click New Partition Table.
 
 ![os_26](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_26.jpg)
 
-Now you should be able to see the free space created equivalent to the capacity of the hard drive. Double click on the free space to create a partition as described next.
+Now you should be able to see the free space created equivalent to the **capacity of the hard drive**. Double click on the free space to create a partition as described next.
 
 
 ![os_27](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_27.jpg)
 
 
-To create a boot(/boot) partition (where the base system files will be installed), enter the size of the new partition out of the total free space. Then set the file system type to EXT4 and the mount point to /boot from the drop-down list.
+To create a **(/boot) partition** (where the base system files will be installed), enter the size of the new partition out of the total free space. Then set the file system type to **EXT4** and the mount point to ***/boot*** from the drop-down list.
 
 
 ![os_28](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_28.jpg)
 ![os_29](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_29.jpg)
 
 
-To create a root(/) partition (where the base system files will be installed), enter the size of the new partition out of the total free space. Then set the file system type to EXT4 and the mount point to / from the drop-down list.
+To create a **root(/)  partition** (where the base system files will be installed), enter the size of the new partition out of the total free space. Then set the file system type to **EXT4** and the mount point to ***/*** from the drop-down list.
 
 
 ![os_30](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_30.jpg)
@@ -303,26 +303,26 @@ To create a root(/) partition (where the base system files will be installed), e
 ![os_32](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_32.jpg)
 
 
-Next, create a SWAP partition. The swap partition is used as virtual memory in case your system runs out of the memory (RAM). For a system with a limited amount of RAM, the rule of thumb is to create the swap partition twice the size of the actual hardware RAM.
+Next, create a **SWAP partition**. The swap partition is used as ***virtual memory*** in case your system runs out of the memory (RAM). For a system with a limited amount of RAM, the rule of thumb is to create the swap partition twice the size of the actual hardware RAM.
 
 
 ![os_33](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_33.jpg)
 ![os_34](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_34.jpg)
 
-All done. Review the partitions and hit the Install Now button.
+All done. Review the partitions and hit the **Install Now** button.
 
 ![os_35](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_35.jpg)
 
-Next, click Continue from the pop-up window to create an empty partition table on the device.
+Next, click **Continue** from the pop-up window on the device.
 
 ![os_36](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_36.jpg)
 
-Next, click Continue from the pop-up window.
+Next, click **Continue** from the pop-up window on the device.
 
 ![os_37](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_37.jpg)
 
 
-You will be prompted to permit the installer to write the recent changes concerning partitioning to disk. Click Continue to proceed.
+You will be prompted to permit the installer to write the recent changes concerning **partitioning to disk**. Click Continue to proceed.
 
 
 ![os_38](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_38.jpg)
@@ -332,9 +332,9 @@ changes to disks are processing...
 ![os_39](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_39.jpg)
 
 # Select Time Zone
-Once the system formats the disk partitions, the installer will ask Where are you?
+Once the system formats the **disk partitions**, the installer will ask Where are you?
 
-Type the nearest large city into the box, and the system will set your local time zone.
+Type the nearest large city into the box, and the system will set your ***local time zone**.
 
 Click Continue.
 
@@ -355,34 +355,34 @@ Next, you’ll need to configure a user account. Fill in the following fields:
 - **Require my password to log in:** This is recommended for publicly accessible servers.
 
 
-Continue to install Ubuntu
+Continue to **install Ubuntu**
 
 
 ![os_41](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_41.jpg)
 
-Ubuntu installation is process.
+**Ubuntu installation** is process.
 
 ![os_42](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_42.jpg)
 
-Ubuntu installation is Processing...
+**Ubuntu installation** is Processing...
 ![os_43](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_43.jpg)
 ![os_44](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_44.jpg)
 ![os_45](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_45.jpg)
 
-Installation completed and Restart the System now.
+Installation completed and **Restart** the System now.
 
 ![os_46](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_46.jpg)
 
-Remove the PenDrive and Then press Enter.
+**Remove the PenDrive** and Then press Enter.
 
 ![os_47](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_47.jpg)
 
-Ubuntu Desktop view.
+Ubuntu **Desktop** view.
 
 ![os_48](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_48.png)
 
 
-Checking OS Version.
+Checking **OS Version**.
 
 ![os_49](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_49.png)
 
