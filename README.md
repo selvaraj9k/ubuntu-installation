@@ -326,6 +326,9 @@ You will be prompted to permit the installer to write the recent changes concern
 
 
 ![os_38](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_38.jpg)
+
+changes to disks are processing...
+
 ![os_39](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_39.jpg)
 
 # Select Time Zone
