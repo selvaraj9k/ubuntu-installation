@@ -389,3 +389,8 @@ Checking **OS Version**.
 
 ![os_49](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_49.png)
 
+# Conclusion
+
+You should now have successfully installed Ubuntu 20.04 on your computer.
+
+
