@@ -313,9 +313,12 @@ All done. Review the partitions and hit the Install Now button.
 
 ![os_35](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_35.jpg)
 
- Next, click Continue from the pop-up window to create an empty partition table on the device.
+Next, click Continue from the pop-up window to create an empty partition table on the device.
 
 ![os_36](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_36.jpg)
+
+Next, click Continue from the pop-up window.
+
 ![os_37](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_37.jpg)
 
 
