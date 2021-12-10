@@ -132,11 +132,11 @@ Below Picture Showing My Laptop.
 
 ![os_2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_2.jpg)
 
-BIOS Information.
+**BIOS** Information.
 
 ![os_3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_3.jpg)
 
-Go to Boot Option.
+Go to **Boot Option**.
 
 ![os_4](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_4.jpg)
 
@@ -146,57 +146,57 @@ To Visible all the options.
 ![os_5](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_5.jpg)
 
 
-In Boot Priorty Option , To change Legacy Support to UEFI first.
+In **Boot Priorty** Option , To change ***Legacy Support to UEFI first***.
 
 ![os_6](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_6.jpg)
 
-Press Esc Button, It shows the Exit Saving Changes Message.
+Press **Esc Button**, It shows the **Exit** Saving Changes Message.
 And Then Press yes to Save Changes
 
 ![os_7](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_7.jpg)
 
-The System was On Within a Second.
+The **System** was On Within a Second.
 
 ![os_8](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_8.jpg)
 
-Loaded  GNU GRUB . Press Ubuntu..
+Loaded  **GNU GRUB**. Press Ubuntu..
 
 
 ![os_9](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_9.jpg)
 
-Now Ubuntu Operting System is Loading...
+Now **Ubuntu Operting System** is Loading...
 
 
 ![os_10](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_10.jpg)
 
-Now Checking Disks...
+Now **Checking Disks**...
 
 ![os_11](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_11.jpg)
 
 
-Check Finished. Disks has No Errors.
+Check Finished. **Disks has No Errors**.
 
 
 ![os_12](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_12.jpg)
 
-Ubuntu is Processing....
+**Ubuntu** is Processing....
 
 ![os_13](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_13.jpg)
 
 # Run Ubuntu
 # Install Ubuntu 20.04 LTS Desktop
 
-To begin the installation, click Install Ubuntu.
+To begin the installation, click **Install Ubuntu**.
 
 ![os_14](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_14.jpg)
 
 # Choose Keyboard Layout
 
-By default, the system will select English and English.
+**By default, the system will select English and English**.
 
 If you have a non-standard keyboard, you can select it in the list. Alternately, click Detect Keyboard Layout and the system will automatically choose your keyboard. If you need to test your keyboard, use the labeled field.
 
-When you’re ready, click Continue.
+When you’re ready, click **Continue**.
 
 
 ![os_15](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_15.jpg)
@@ -206,23 +206,23 @@ When you’re ready, click Continue.
 
 There are two Options
 
-- I don't want to connect to a WiFi network right now.
+- I don't want to connect to a **WiFi** network right now.
 - Connect to this network.
 
 ![os_16](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_16.jpg)
 
 Connect the Network.
-To the Available Wifi Network Connection.
+To the Available **Wifi Network Connection**.
 
 ![os_17](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_17.jpg)
 
 
-Select the Wifi Network Connection, and Enter the Password.
+Select the **Wifi Network Connection**, and Enter the Password.
 
 
 ![os_18](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_18.jpg)
 
-Wireless Network Connection was Conneted.
+**Wireless Network Connection** was Conneted.
 
 ![os_19](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_19.jpg)
 
@@ -268,7 +268,7 @@ You’ll be asked to Write changes to disks?  None of the options you’ve selec
 
 ![os_22](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_22.jpg)
 
-For this scenario, you need to set up partitions manually so choose Something else and click Continue.
+For this scenario, you need to set up partitions manually so choose **Something else** and **click Continue**.
 
 ![os_23](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_23.jpg)
 
@@ -334,7 +334,7 @@ changes to disks are processing...
 # Select Time Zone
 Once the system formats the **disk partitions**, the installer will ask Where are you?
 
-Type the nearest large city into the box, and the system will set your ***local time zone**.
+Type the nearest large city into the box, and the system will set your **local time zone**.
 
 Click Continue.
 
@@ -364,7 +364,10 @@ Continue to **install Ubuntu**
 
 ![os_42](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_42.jpg)
 
+
 **Ubuntu installation** is Processing...
+
+
 ![os_43](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_43.jpg)
 ![os_44](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_44.jpg)
 ![os_45](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_45.jpg)
