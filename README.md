@@ -42,7 +42,7 @@ Run the file once downloaded.And Extract and use it.
 
  The balenaEtcher utility launches. Plug in the USB drive – you should see the drive pop up in the device field.
 
-- In the Flash from file, click Disk or ISO Image.
+- In the Flash from file, click **Disk** or **ISO Image**.
 - Browse and select the .iso Ubuntu file you downloaded earlier.
 - Select  Target USB as the device you wish to write to.
 - Click the Flash button to the Flash.
@@ -51,7 +51,7 @@ Run the file once downloaded.And Extract and use it.
 
 ### Make Startup Disk (Default in Ubuntu)
 
-- In the Source disc image from file, click Disk or ISO Image.
+- In the Source disc image from file, click **Disk** or **ISO Image**.
 - Browse and select the .iso Ubuntu file you downloaded earlier.
 - Select  Target USB as the device you wish to write to.
 - Click the Make Startup disk button to the Flash.
