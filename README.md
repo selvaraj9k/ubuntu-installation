@@ -76,8 +76,8 @@ Insert the bootable USB and switch on the computer.
 
 Next, one of two things will happen:
 
-- The computer will automatically boot from the USB if our BIOS/UEFI is set up correctly.
-- You need to set up boot from USB manually, through the Boot Menu or BIOS/UEFI.
+- **The computer will automatically boot from the USB if our BIOS/UEFI is set up correctly**.
+- **You need to set up boot from USB manually, through the Boot Menu or BIOS/UEFI**.
 
 ## Boot USB from Boot Menu
 
@@ -100,12 +100,12 @@ As the computer is switching on, you can access the Boot Menu by pressing the co
 | Toshiba     | F12             |
 
 Once you have accessed the Boot Menu, select the USB as the device to boot from and press Enter.
-If you are unable to boot from the USB this way, try doing it by opening BIOS/UEFI.
+If you are unable to boot from the USB this way, try doing it by opening **BIOS/UEFI**.
 
 
 ## Boot USB from BIOS/UEFI
 
-Just as accessing the Boot Menu, to open the BIOS/EUFI you need to hit the correct keys that correspond to the computer brand. The list of common keys for accessing the BIOS/UEFI is:
+Just as accessing the Boot Menu, to open the **BIOS/EUFI** you need to hit the correct keys that correspond to the computer brand. The list of common keys for accessing the **BIOS/UEFI** is:
 
 
 |  Brand     |        Keys         |   
