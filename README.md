@@ -72,7 +72,7 @@ Insert the **PenDrive**
 
 Switch off your computer and remove all other USB devices (like printers, memory cards, etc.).
 
-Insert the bootable USB and switch on the computer.
+Insert the **bootable USB** and switch on the computer.
 
 Next, one of two things will happen:
 
