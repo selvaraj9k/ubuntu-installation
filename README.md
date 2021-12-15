@@ -58,7 +58,7 @@ Run the file once downloaded.And Extract and use it.
 
 ![ubuntu-3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-3.png)
 
-#WoeUSB Install
+# WoeUSB Install
 
 - [WoeUSB](https://github.com/selvaraj-kuppusamy/software_install/blob/main/WoeUSB_Install/Install_WoeUSB_in_Linux.bash)
 
