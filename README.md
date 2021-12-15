@@ -55,6 +55,10 @@ Run the file once downloaded.And Extract and use it.
 - Browse and select the .iso Ubuntu file you downloaded earlier.
 - Select  Target USB as the device you wish to write to.
 - Click the Make Startup disk button to the Flash.
+
+#WoeUSB Install
+
+
  
 ![ubuntu-3](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-3.png)
 
