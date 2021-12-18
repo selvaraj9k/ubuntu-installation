@@ -12,7 +12,7 @@
   - **4GB memory**
   - **25GB available disk space for storage (less if installing the minimal version)**
   - **DVD drive or USB port**
-- At least a 4GB USB drive
+- At least a **4GB USB drive**
 
 ![ubutnu-linux](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-linux.jpg)
 
