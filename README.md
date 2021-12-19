@@ -128,7 +128,7 @@ Just as accessing the Boot Menu, to open the **BIOS/EUFI** you need to hit the c
 |Toshiba     |	F1, F2, F12 or Esc |
 
 
-Once you access the BIOS/UEFI, find the Boot Device Select Menu and set the USB as first in the Boot Order. With this configuration in place, your computer will boot from the USB (if possible). If there is no bootable flash drive present, it will run the OS from the hard drive, as per usual.
+Once you access the **BIOS/UEFI**, find the Boot Device Select Menu and set the USB as first in the Boot Order. With this configuration in place, your computer will boot from the USB (if possible). If there is no bootable flash drive present, it will run the OS from the hard drive, as per usual.
 
 Note: Make sure to disable legacy mode or secure boot, if your system has this option.
 
