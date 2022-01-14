@@ -40,7 +40,7 @@ Download the balenaEtcher utility. Scroll down to the download section and click
 
 Run the file once downloaded.And Extract and use it.
 
- The balenaEtcher utility launches. Plug in the USB drive – you should see the drive pop up in the device field.
+ The **balenaEtcher** utility launches. Plug in the USB drive – you should see the drive pop up in the device field.
 
 - In the Flash from file, click **Disk** or **ISO Image**.
 - Browse and select the .iso Ubuntu file you downloaded earlier.
