@@ -34,9 +34,9 @@ Save the file to a location of your choice.
 ## Create Bootable USB Drive on Linux
 ### BalenaEtcher
 
-You’ll need to install a third-party utility called balenaEtcher to create a USB bootable drive.
+You’ll need to install a third-party utility called **balenaEtcher** to create a USB bootable drive.
 
-Download the balenaEtcher utility. Scroll down to the download section and click the link to download the latest version of balenaEtcher.
+Download the **balenaEtcher** utility. Scroll down to the download section and click the link to download the latest version of balenaEtcher.
 
 Run the file once downloaded.And Extract and use it.
 
