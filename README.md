@@ -45,7 +45,7 @@ Run the file once downloaded.And Extract and use it.
 - In the Flash from file, click **Disk** or **ISO Image**.
 - Browse and select the .iso Ubuntu file you downloaded earlier.
 - Select  Target USB as the device you wish to write to.
-- Click the Flash button to the Flash.
+- Click the **Flash button** to the Flash.
 
 ![ubuntu-2](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-2.png)
 
