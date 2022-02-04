@@ -342,7 +342,7 @@ Once the system formats the **disk partitions**, the installer will ask Where ar
 
 Type the nearest large city into the box, and the system will set your **local time zone**.
 
-Click Continue.
+Click **Continue**.
 
 Note: It’s always possible to change the timezone on Ubuntu at a later point in time.
 
