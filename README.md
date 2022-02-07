@@ -105,7 +105,7 @@ As the computer is switching on, you can access the Boot Menu by pressing the co
 | Samsung     | F2, F12 or Esc  |
 | Toshiba     | F12             |
 
-Once you have accessed the Boot Menu, select the USB as the device to boot from and press Enter.
+Once you have accessed the **Boot Menu**, select the USB as the device to boot from and press Enter.
 If you are unable to boot from the USB this way, try doing it by opening **BIOS/UEFI**.
 
 
