@@ -78,7 +78,7 @@ You’ll need to install a third-party utility called Rufus to create a USB boot
 
 # Insert the **PenDrive**
 
-Insert the **PenDrive** in pc
+Insert the **PenDrive** in PC.
 
 ![os_1](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/os_1.jpg)
 
