@@ -66,7 +66,7 @@ Run the file once downloaded.And Extract and use it.
 - Select  Target USB as the device you wish to write to.
 - Click the **Install** button to the Flash.
 
-- [WoeUSB](https://github.com/selvaraj-kuppusamy/software_install/blob/main/WoeUSB_Install/Install_WoeUSB_in_Linux.bash)
+ [WoeUSB Installation Link](https://github.com/selvaraj-kuppusamy/software_install/blob/main/WoeUSB_Install/Install_WoeUSB_in_Linux.bash)
 
 ![ubuntu-4](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-4.png)
 
