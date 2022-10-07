@@ -60,13 +60,13 @@ Run the file once downloaded.And Extract and use it.
 
 # WoeUSB Install
 
+ [WoeUSB Installation Link](https://github.com/selvaraj-kuppusamy/software_install/blob/main/WoeUSB_Install/Install_WoeUSB_in_Linux.bash)
+
 - In the Source disc image from file, click **Disk** or **ISO Image**.
 - Browse and select the **.iso** Ubuntu file you downloaded earlier.
 - Select the file system.
 - Select  Target USB as the device you wish to write to.
 - Click the **Install** button to the Flash.
-
- [WoeUSB Installation Link](https://github.com/selvaraj-kuppusamy/software_install/blob/main/WoeUSB_Install/Install_WoeUSB_in_Linux.bash)
 
 ![ubuntu-4](https://github.com/selvaraj-kuppusamy/ubuntu-installation/blob/main/assets/ubuntu-4.png)
 
