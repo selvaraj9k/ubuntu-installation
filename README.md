@@ -405,6 +405,6 @@ Checking **OS Version**.
 
 # Conclusion
 
-You should now have successfully installed Ubuntu 20.04 on your computer.
+You have successfully installed Ubuntu 20.04 on your computer.
 
 
